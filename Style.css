@@ -1,0 +1,35 @@
+html,body {
+
+
+background: green;
+height: 90%;
+align: right;
+
+}
+.container {
+height: 90%;
+background:grey;
+width:  83%;
+margin: 100px;
+border: black 3px;
+
+}
+
+
+.color {
+height: 10px;
+background:yellow;
+width:  11sspx;
+border: solid black 3spx;
+}
+
+
+/* #red{
+  background: red;
+}
+#green{
+  background: green;
+}
+#blue{
+  background: blue
+} */
